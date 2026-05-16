@@ -11,6 +11,6 @@ git clone -b f<x>-core_<ver>_arm64 --single-branch https://github.com/cocelo-ai/
 Download the `.deb` file from the **Assets** section, then install it with:
 
 ```bash
-sudo apt install ./f<x>-core_<lib_ver>_arm64.deb
+sudo apt install ./fx-core-release/f<x>-core_<lib_ver>_arm64.deb
 ```
 
