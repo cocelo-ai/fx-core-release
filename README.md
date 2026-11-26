@@ -11,6 +11,6 @@ git clone -b f26-core_0.1.11-1_arm64 --single-branch https://github.com/cocelo-a
 Download the `.deb` file from the **Assets** section, then install it with:
 
 ```bash
-sudo apt install ./fx-core-release/f16-core_0.1.11-1_arm64.deb
+sudo apt install ./fx-core-release/f26-core_0.1.11-1_arm64.deb
 ```
 
